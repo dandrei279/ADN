@@ -8,15 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-/**
- * 
- * #ideas
- * fix the bug in aminoacizi when entering text ( if first leter is wrong,
- * when you delete it is get stack overflow
- * 
- * 
- * 
- */
 
 namespace ADN {
     public partial class Form1 : Form {
